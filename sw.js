@@ -33,7 +33,7 @@
 
 // Naikkan angka ini setiap kali file HTML diganti versi baru,
 // supaya HP mengambil versi terbaru, bukan yang tersimpan lama.
-const VERSI = 'soa-v5.24';
+const VERSI = 'soa-v6.1';
 const CACHE = VERSI;
 
 // Berkas inti yang disimpan supaya app bisa dibuka tanpa sinyal.
